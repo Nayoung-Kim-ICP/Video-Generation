@@ -1,6 +1,8 @@
-# Video-Generation
+# Dynamic Motion Estimation and Evolution Video Prediction Network
 
-#Enviroment
-#tensorflow 1.14.0
-#numpy 1.18.4
-#python 3.6.9
+This repository is for DMEE introduced in the follow paper
+
+Nayoung Kim and Je-Won Kang, "Dynamic Motion Estimation and Evolution Video Prediction Network"
+
+#Introduction
+
